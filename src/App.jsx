@@ -91,7 +91,7 @@ function App() {
                   <FaTwitter className="w-6 h-6 text-white hover:text-gray-500" />
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -112,14 +112,14 @@ function App() {
                   <FaInstagram className="w-6 h-6 text-white hover:text-gray-500" />
                 </a>
                 <a
-                  href="https://discord.com"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <FaDiscord className="w-6 h-6 text-white hover:text-gray-500" />
                 </a>
                 <a
-                  href="https://medium.com"
+                  href="https://medium.com/@TOROX"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
