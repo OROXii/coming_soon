@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host --port 3002",
+    "start": "vite preview --port $PORT",
     "build": "vite build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
