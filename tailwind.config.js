@@ -7,7 +7,11 @@ export default {
       "./src/components/**/*.{js,jsx}",
     ],
     theme: {
-      extend: {},
+      extend: {
+        fontFamily:{
+          'Bison': ['Bison', 'sans-serif'],
+        }
+      },
     },
     plugins: [],
   };

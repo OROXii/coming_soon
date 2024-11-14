@@ -29,12 +29,12 @@ function App() {
             <div className="flex flex-col items-center w-full">
               <div className="flex items-center w-full max-w-screen-lg my-4">
                 <div className="flex-grow h-1 bg-[#d9d9d9]" />
-                <div className="mx-4 text-white text-[86.40px] font-bold font-['Outfit'] leading-[86.40px]">
+                <div className="mx-4 text-white text-[120px] font-[700] font-Bison leading-[86.40px]">
                   TOROX
                 </div>
                 <div className="flex-grow h-1 bg-[#d9d9d9]" />
               </div>
-              <div className="text-center text-white font-light font-['Outfit'] leading-[1.2] max-w-screen-md px-4 text-responsive">
+              <div className="text-center text-white font-[600] font-Bison leading-[1.2] max-w-screen-md px-4 text-responsive">
                 Decentralized Web3 Game Engine with P2P Networking, Blockchain
                 Integration, and Advanced Security Features
               </div>
@@ -44,7 +44,7 @@ function App() {
             <div className="flex flex-col w-full items-center">
               <div className="flex flex-col max-w-md w-full">
                 {/* Subtitle */}
-                <div className="text-left text-white font-normal font-['Outfit'] leading-normal my-4 text-[clamp(20px,5vw,32px)]">
+                <div className="text-left text-white font-[400] font-Bison leading-normal mt-10 mb-4 text-[clamp(20px,2vw,32px)]">
                   Get Notified When We Launch
                 </div>
 
