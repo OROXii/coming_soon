@@ -77,7 +77,7 @@ function App() {
               {/* Social Icons */}
               <div className="SocialIcons h-6 flex justify-center items-center gap-6 mb-4">
                 <a
-                  href="https://github.com/BITOROX"
+                  href="https://github.com/Torox-Labs"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -90,7 +90,7 @@ function App() {
                 >
                   <FaTwitter className="w-6 h-6 text-white hover:text-gray-500" />
                 </a>
-                <a
+                {/* <a
                   href="#"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -117,7 +117,7 @@ function App() {
                   rel="noopener noreferrer"
                 >
                   <FaDiscord className="w-6 h-6 text-white hover:text-gray-500" />
-                </a>
+                </a> */}
                 <a
                   href="https://medium.com/@TOROX"
                   target="_blank"
